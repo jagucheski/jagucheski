@@ -1,7 +1,7 @@
 
 ## Hi, I'm Maicon A. jagucheski
 
-#### *A full stack developer passionate about technologies* 
+#### *A full stack developer* 
 
 ### Languages and Tools:
 

@@ -8,12 +8,7 @@
 
 <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/> <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" /> <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /> <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" /> <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" /> <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /> <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original-wordmark.svg" /> <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" /> <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" /> <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/> <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" /> 
 <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg" /> <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" /> 
-
 ##
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jagucheski&layout=compact)](https://github.com/jagucheski/github-readme-stats)
-
-[![Jagucheski's GitHub stats](https://github-readme-stats.vercel.app/api?username=jagucheski&show_icons=true)](https://github.com/jagucheski/github-readme-stats)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jagucheski"/>
 
